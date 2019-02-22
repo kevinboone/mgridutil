@@ -2,7 +2,6 @@
  * main.c 
  * Copyright (c)2019 Kevin Boone, GPL v3.0
  * =====================================================================*/
-#define _GNU_SOURCE
 #include <stdio.h>
 #include <string.h>
 #include <malloc.h>

@@ -31,6 +31,8 @@ BOOL grid_tolatlong (const char *_grid, double *lat,
     return FALSE;
     }
 
+  // We could really do with some more error checking here :)
+
   char grid[7];
   for (int i = 0; i < l; i++)
     {
